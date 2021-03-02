@@ -80,10 +80,10 @@ module.exports = {
         "Mozilla/5.0 (Linux; Android {android_version}; {deviceModel} Build/{buildSn}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36; unicom{version:{unicom_version},desmobile:{desmobile}};devicetype{deviceBrand:{deviceBrand},deviceModel:{deviceModel}};{yw_code:}",
     };
     var rdm = {
-      android_version: "7.1.2",
+      android_version: "10.0.1",
       unicom_version: "android@8.0100",
       deviceBrand: "samsung",
-      deviceModel: "SM-G977N",
+      deviceModel: "SM-G950U",
       buildSn: "LMY48Z",
       desmobile: options.user,
     };
